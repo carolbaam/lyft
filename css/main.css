@@ -1,3 +1,355 @@
-/*
- * Estilos de tu proyecto
- */
+body{
+    
+    margin: 0px;
+    
+}
+.container{
+    background-image: url("../assets/images/hero.gif" ); 
+    
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    margin:0 auto;
+    
+    height: 100vh;
+    
+}
+
+.second-from-section-one{
+    background: linear-gradient(#76278F, #2B1E66);
+    height: 100vh;
+}
+
+footer{
+    background: #333446;
+}
+
+header{
+    position: fixed;
+    background-image: url("../assets/images/hero.gif") ;
+    background-size: cover;
+   
+}
+
+header>img{
+    width: 5%;
+    height: 3%;
+    padding-top: 40px;
+    padding-left: 70px;
+}
+
+header>nav>h3{
+
+    padding-right: 50px;
+    float: right;
+    color: white;
+    font-weight: lighter;
+    font-size: 20px;
+    
+}
+
+header>nav{
+    display: inline-block;
+    padding-right: 110px;
+    padding-top: 20px;
+    float: right;
+    
+}
+
+ section>.white-box{ 
+    background-color: white;
+    display: inline-block;
+    float: right;
+    padding: 30px;
+    padding-left: 60px;
+    padding-top: 80px;
+    
+}
+
+.grand-white-box{
+    width:100%;
+    height: 400px;
+    padding-top: 70px;
+}
+
+.white-box{
+    width: 35%;
+    height: 90%;
+    
+}
+
+.header>h1{
+    font-size: 40px;
+    color: #362281;
+    margin-bottom: 0px;
+    margin-top: 10px;
+   
+}
+
+.header>p{
+    font-size: 15px;
+    color: #362281;
+    margin:0px;
+    margin-bottom: 5px;
+}
+
+input[type=text]{
+    border:none;
+    font-size: 15px;
+    margin:12px;
+    text-align: left;
+}
+.buttons{
+    
+    width: 110%;
+
+}
+
+.buttons>.button-pink{
+
+    width:28%;
+    margin:0px;
+    display: inline-block;
+    padding: 10px;
+    background: #ff00bc;
+    border-radius: 5%;
+    color:white;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+.buttons>a{
+        display: inline-block;
+        width:40%;
+        margin-right:0px;
+        font-size: 16px;
+        padding-left: 10px;
+    }
+
+
+.application{
+    font-size: 10px;
+}
+
+.white-box>hr{
+
+    width:100;
+}
+
+
+/* Segunda seccion de primera seccion*/
+
+.ride{
+
+    margin:8%;
+    color:white;
+    width:35%;
+    height: 50%;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    margin-top:0px;
+    
+}
+
+h2{
+     display: inline-block;
+     margin: 0 auto;
+}
+
+.ride h2{
+
+    margin:0px;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+.ride p{
+
+    font-size: 15px;
+  
+}
+
+.image{
+    width: 40%;;
+    height: 70%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 40px;
+    
+    
+}
+
+.image>img{
+    width: 100%;
+    height: 100%;
+}
+
+.first-ride,
+.serious,
+.happy{
+    margin: 50px;
+    width:400px;
+}
+
+.first-ride{
+    margin-top:0px;
+}
+
+/*seccion TRES*/
+
+.videos-part{
+    font-family: 'Montserrat', sans-serif;
+}
+.video-one>.watch1{
+    display: inline-block;
+    width:350px;
+    text-align: left;
+    margin-left:110px;
+    margin-right:80px;
+    
+}
+
+.video-uno{
+    display: inline-block;
+    width:735px;
+    height: 500px;
+    
+   
+    
+}
+
+.video-tow>.watch2{
+    display: inline-block;
+    width:350px;
+    text-align: left;
+    margin-left:110px;
+    margin-right:80px;
+    
+    
+}
+
+.video-dos{
+    display: inline-block;
+    width:735px;
+    height: 500px;
+   
+}
+
+.video-three>.watch3{
+    display: inline-block;
+    width: 350px;;
+    text-align: left;
+    margin-left:110px;
+    margin-right:80px;
+     
+    
+}
+
+
+.video-tres{
+    display: inline-block;
+    width:735px;
+    height: 500px;
+   
+}
+
+.video-size1{
+    width:100%;
+    height:100%;
+}
+
+.video-size2{
+    width:100%;
+    height:100%;
+}
+
+.video-size3{
+    width:100%;
+    height:100%;
+}
+
+
+
+
+
+/*FOOTER*/
+
+footer{
+    padding-bottom: 30px;
+}
+
+.log-in,
+.partner,
+.learn,
+.images-logos{
+
+    display: inline-block;
+    text-align: left;
+    margin:5px;
+   
+    padding: 15px 80px 20px 40px;
+}
+
+
+.copyright,
+.icons{
+    text-align: center;
+    color: white;
+    font-family:  'Montserrat', sans-serif;
+    font-size: 10px;
+}
+
+.icons>i{
+   padding:15px; 
+    border:solid white 1px;
+    border-radius: 100%;
+    margin-right:20px;
+   
+}
+
+
+.apple,
+.google,
+.microsoft{
+    display:block;
+    width: 60%;
+    margin:5px;
+    padding: 4px;
+    
+
+}
+
+.before-end{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.images-logos{
+    position: relative;
+    top:37px;
+    display: inline-block;
+    width: 13%;
+    
+
+}
+
+
+
+
+.before-end p:hover{
+    color: purple;
+    cursor: pointer;
+}
+
+.last-line{
+    display: inline-block;
+    width:600px;
+    text-align: center;
+    position: relative;
+    left: 350px;
+}
