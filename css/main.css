@@ -202,9 +202,12 @@ h2{
 .videos-part{
     font-family: 'Montserrat', sans-serif;
 }
+
+
 .video-one>.watch1{
     display: inline-block;
     width:350px;
+    
     text-align: left;
     margin-left:110px;
     margin-right:80px;
@@ -212,7 +215,7 @@ h2{
 }
 
 .video-uno{
-    display: inline-block;
+    float: right;
     width:735px;
     height: 500px;
     
@@ -221,7 +224,7 @@ h2{
 }
 
 .video-tow>.watch2{
-    display: inline-block;
+    float: right;
     width:350px;
     text-align: left;
     margin-left:110px;
@@ -238,7 +241,7 @@ h2{
 }
 
 .video-three>.watch3{
-    display: inline-block;
+    float: left;
     width: 350px;;
     text-align: left;
     margin-left:110px;
