@@ -21,3 +21,8 @@ El documento main.css se encuentra en la carpeta css y todos los archivos e imag
 8.-Creamos un footer con dos divs, en el primero haremos otros cuatro divs cada uno conmo si fuera una columna, en el ultimo inluímos las imágenes de apple, google y microsoft.
  
  9.- En el segundo div del footer, inluímos los íconos y el copyright.
+
+ 
+ LEARNYOUHTML BONUS
+ ![](https://subefotos.com/ver/?6c74bd29f974d9bc53fcf661290ef588o.png "captura de pantalla de consola)
+ ![](http://subefotos.com/ver/?cd74e0534af51734562be4647bb3616bo.png)
