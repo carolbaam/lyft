@@ -47,6 +47,12 @@ header>nav>h3{
     
 }
 
+header>nav>h3:hover{
+    color:#ff00bc;
+    cursor: pointer;
+
+}
+
 header>nav{
     display: inline-block;
     padding-right: 110px;
@@ -83,6 +89,33 @@ header>nav{
     margin-bottom: 0px;
     margin-top: 10px;
    
+}
+
+.purple{
+    color:#ff00bc;
+    text-decoration-line: none;
+}
+
+.purple:hover{
+    color:purple;
+    text-decoration-line: underline;
+}
+
+.grey{
+    color:grey;
+}
+
+.grey:hover{
+    color:palevioletred;
+}
+
+.button-pink{
+    text-decoration-line: none;
+}
+
+.button-pink:hover{
+    cursor: pointer;
+    text-decoration-line: none;
 }
 
 .header>p{
@@ -305,10 +338,11 @@ footer{
 }
 
 .icons>i{
-   padding:15px; 
+   padding:13px; 
     border:solid white 1px;
-    border-radius: 100%;
+    border-radius: 80%;
     margin-right:20px;
+   
    
 }
 
