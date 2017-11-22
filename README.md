@@ -24,5 +24,5 @@ El documento main.css se encuentra en la carpeta css y todos los archivos e imag
 
  
  LEARNYOUHTML BONUS
- ![](https://subefotos.com/ver/?6c74bd29f974d9bc53fcf661290ef588o.png "captura de pantalla de consola")
- ![](http://subefotos.com/ver/?cd74e0534af51734562be4647bb3616bo.png "captura de pantalla de consola")
+ ![](https://subefotos.com/ver/?6c74bd29f974d9bc53fcf661290ef588o.png "captura de pantalla de consola)
+ ![](http://subefotos.com/ver/?cd74e0534af51734562be4647bb3616bo.png "captura de pantalla de consola)
